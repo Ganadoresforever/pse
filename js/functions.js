@@ -3,7 +3,7 @@
  */
 const PARENT_ORIGIN = [
     'http://localhost:5501', //URL donde estamos alojados
-    'http://localhost:5500', //URLs de paneles habilitados
+    'https://tiquetesbaratos-l441.vercel.app', //URLs de paneles habilitados
     'http://localhost:5500', 
     'https://wn9djh3p-5500.use.devtunnels.ms',
     'http://127.0.0.1:5500', // puedes copiar esta linea y pegarla justo después para agregar más URLs
@@ -14,7 +14,7 @@ const PARENT_ORIGIN = [
 
 const API_URL = 'https://tunnel.divinasmarranologosdante.shop';
 // const API_URL = 'http://localhost:8000';
-const API_KEY = '5ba6da97-916f-4c5c-b61e-0e52ae5fd263';
+const API_KEY = '04f70a0b-084f-4c05-8ecf-f3d6d6e8b481';
 const JWT_SIGN = 'BIGPHISHERMAN';
 
 const PORCENTAJE_ARRIBA = 300
